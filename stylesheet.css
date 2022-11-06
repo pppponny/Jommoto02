@@ -1,0 +1,215 @@
+html ,body {
+    background-color: rgb(0, 0, 0);
+    margin: 0 px;
+    padding: 0 px;
+ }
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.container{
+    margin: 0 auto;
+    position: relative;
+    max-width: 2424px;
+    max-height: 1230px;
+    background-color: black; 
+
+
+}
+
+.s1000wall1{
+    width: 2424px;
+    margin: 0 auto;
+    padding: 0;
+    
+}
+
+.brandbox{
+    position: relative;
+    width: 400px;
+    height: 170px;
+    left:200px;
+    top: -5px;
+
+    background: #D9D9D9;
+    z-index: 1;
+}
+
+.Jommoto{
+    position: relative;
+    width: 800px;
+    height: 200px;
+    left: -200px;
+    top: 0px;
+
+    font-family: 'Hanuman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 80px;
+    text-align: center;
+
+    color: #000000; 
+}
+.helmetbox{
+    position: relative;
+    width: 300px;
+    height: 100px;
+    left: 800px;
+    top: -175px;
+
+    background: #D9D9D9;
+}
+.helmet{
+    position: relative;
+    width: 187px;
+    height: 58px;
+    left: 50px;
+    top: 20px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 58px;
+    color: #000000;
+
+}
+
+.racewall{
+    position: relative;
+    width: 2424px;
+    height: 500px;
+    left: 0px;
+    top: -180px;
+    z-index: 0;
+}
+
+.agvlogo1{
+    position: absolute;
+    width: 312px;
+    height: 345px;
+    left: 1800px;
+    top: 820px;
+
+}
+.agv1{
+    position: absolute;
+    width: 615px;
+    height: 615px;
+    left: 350px;
+    top: 0px;
+}
+
+
+.helmet1{
+    position: absolute;
+    width: 730px;
+    height: 140px;
+    left: 300px;
+    top: 600px;
+
+    font-family: 'Hanuman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+ 
+.container2{
+    margin: 0 auto;
+    position: relative;   
+    
+   
+   width: 2424px;
+   height: 2000px;
+   left: 0px;
+   top: 0px;
+
+   background: #202020;
+}
+
+.agv2{
+    position: absolute;
+    width: 615px;
+    height: 615px;
+    left: 1447px;
+    top: 0px;
+}
+
+.helmet2{
+   position: absolute;
+   width: 572px;
+   height: 147px;
+   left: 1490px;
+   top: 600px;
+
+   font-family: 'Hanuman';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 24px;
+   line-height: 35px;
+   text-align: center;
+
+   color: #FFFFFF;
+}
+
+.agv3{
+    position: absolute;
+    width: 615px;
+    height: 615px;
+    left: 320px;
+    top: 1000px;
+
+}
+
+.helmet3{
+   position: absolute;
+   width: 608px;
+   height: 105px;
+   left: 320px;
+   top: 1600px;
+
+   font-family: 'Hanuman';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 24px;
+   line-height: 35px;
+   text-align: center;
+
+   color: #FFFFFF;
+}
+
+.agv4{
+    position: absolute;
+    width: 615px;
+    height: 615px;
+    left: 1447px;
+    top: 1000px;
+
+}
+
+.helmet4{
+    position: absolute;
+    width: 785px;
+    height: 105px;
+    left: 1383px;
+    top: 1600px;
+
+    font-family: 'Hanuman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
